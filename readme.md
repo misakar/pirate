@@ -1,15 +1,15 @@
 # pirate
 a mvc restful api framework
 
-## (M)orm
+### (M)orm
 + sql: pirate-orm
-
-## (V)route
-pirate-route
-
-## (V)jsonify
-marshmallow
 + nosql: mongokit
 
-## (C)cli
+### (V)route
+pirate-route
+
+### (V)jsonify
+marshmallow
+
+### (C)cli
 pirate-cli
