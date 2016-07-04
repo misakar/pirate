@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: Pirate
+Version: 0.1
+Summary: a mvc restful api framework
+Home-page: https://github.com/neo1218/pirate/
+Author: neo1218
+Author-email: neo1218@yeah.net
+License: MIT
+Description: UNKNOWN
+Platform: any
+Classifier: Development Status :: 0 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

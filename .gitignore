@@ -1,2 +1,4 @@
 **/*.pyc
 pirate-ship/
+learn/
+.idea/
