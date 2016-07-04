@@ -1,6 +1,20 @@
 # pirate
 a mvc restful api framework
 
+### ⏬  Install
+still in development, you can install from source
+
+    $ git clone https://github.com/neo1218/pirate && cd pirate
+    $ virtualenv pirate-ship && source pirate-ship/bin/activate
+    $ pip install --editable .
+
+[packages]: <br>
+❌src.cli; ❌src.jsonify; ❌src.orm; ✅src.pirate; ✅src.route
+
+### 📝  Document
+#### wiki
++ [pirate-wiki](https://github.com/neo1218/pirate/wiki)
+
 ### 💻  Features
 #### (M)orm
 + **sql**: [pirate-orm](https://github.com/neo1218/pirate/tree/master/src/orm)
@@ -25,7 +39,3 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 
 #### (C)cli
 + [pirate-cli](https://github.com/neo1218/pirate/tree/master/src/cli)
-
-### 📝  Document
-#### wiki
-+ [pirate-wiki](https://github.com/neo1218/pirate/wiki)
