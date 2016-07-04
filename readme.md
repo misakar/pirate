@@ -39,3 +39,6 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 
 #### (C)cli
 + [pirate-cli](https://github.com/neo1218/pirate/tree/master/src/cli)
+
+### 📄  License
+[MIT], check [License file] for more detail
