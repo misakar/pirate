@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://cloud.githubusercontent.com/assets/10671733/16593462/f3874bc4-4317-11e6-975e-36ac1b183d04.jpg" width="400" height="230" alt="logo"/>
+    <img src="https://cloud.githubusercontent.com/assets/10671733/16593869/1527c978-431a-11e6-9457-ed633644eeb0.jpg" width="400" height="230" alt="logo"/>
 </div>
 # <center>pirate</center>
 <center>a mvc restful api framework</center>
