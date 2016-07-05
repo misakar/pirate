@@ -1,10 +1,10 @@
 <div align=center>
     <img src="https://cloud.githubusercontent.com/assets/10671733/16593462/f3874bc4-4317-11e6-975e-36ac1b183d04.jpg" width="400" height="230" alt="logo"/>
 </div>
-# pirate
-a mvc restful api framework
+# <center>pirate</center>
+<center>a mvc restful api framework</center>
 
-### ⏬  Install
+### <center>⏬  Install</center>
 still in development, you can install from source
 
     $ git clone https://github.com/neo1218/pirate && cd pirate
@@ -14,11 +14,11 @@ still in development, you can install from source
 [packages]: <br>
 ❌src.cli; ❌src.jsonify; ❌src.orm; ✅src.pirate; ✅src.route
 
-### 📝  Document
+### <center>📝  Document</center>
 #### wiki
 + [pirate-wiki](https://github.com/neo1218/pirate/wiki)
 
-### 💻  Features
+### <center>💻  Features</center>
 #### (M)orm
 + **sql**: [pirate-orm](https://github.com/neo1218/pirate/tree/master/src/orm)
 + **nosql**: [mongokit](https://github.com/namlook/mongokit)
@@ -42,5 +42,5 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 #### (C)cli
 + [pirate-cli](https://github.com/neo1218/pirate/tree/master/src/cli)
 
-### 📄  License
+### <center>📄  License</center>
 [MIT], check [License file] for more detail
