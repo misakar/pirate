@@ -31,7 +31,7 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 并且将内置```run_simple```服务器替换为```gevent WSGIServer```,
 并打上monkey_patch. <br/>
 + [测试源码](https://github.com/neo1218/pirate/tree/master/examples/compares/compare_with_flask)
-+ [测试结果] ![result](http://7xj431.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-06%20%E4%B8%8A%E5%8D%8812.45.30.png)
++ [测试结果] ![result](http://7xj431.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-06%20%E4%B8%8A%E5%8D%8812.54.05.png)
 
 #### (V)jsonify
 + [marshmallow](https://github.com/marshmallow-code/marshmallow)
