@@ -2,7 +2,7 @@
     <img src="https://cloud.githubusercontent.com/assets/10671733/16593869/1527c978-431a-11e6-9457-ed633644eeb0.jpg" width="400" height="230" alt="logo"/>
 </div>
 # <center>pirate</center>
-<center>a mvc restful api framework</center>
+<center>a mvp restful api framework</center>
 
 ### <center>⏬  Install</center>
 still in development, you can install from source
@@ -19,11 +19,7 @@ still in development, you can install from source
 + [pirate-wiki](https://github.com/neo1218/pirate/wiki)
 
 ### <center>💻  Features</center>
-#### (M)orm
-+ **sql**: [pirate-orm](https://github.com/neo1218/pirate/tree/master/src/orm)
-+ **nosql**: [mongokit](https://github.com/namlook/mongokit)
-
-#### (V)route
+#### route-system
 + [pirate-route](https://github.com/neo1218/pirate/tree/master/src/route) <br/>
 pirate的路由系统主要处理这些事情: 请求匹配、响应处理,
 pirate的请求处理在wsgi内部创建greenlet local object:
@@ -35,6 +31,10 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 并打上monkey_patch. <br/>
 + [测试源码](https://github.com/neo1218/pirate/tree/master/examples/compares/compare_with_flask)
 + [测试结果] ![result](https://cloud.githubusercontent.com/assets/10671733/16592762/c5d870f2-4314-11e6-9b06-2a0e0ea2c2a6.png)
+
+#### (M)orm
++ **sql**: [pirate-orm](https://github.com/neo1218/pirate/tree/master/src/orm)
++ **nosql**: [mongokit](https://github.com/namlook/mongokit)
 
 #### (V)jsonify
 + [marshmallow](https://github.com/marshmallow-code/marshmallow)
