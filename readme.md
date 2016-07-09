@@ -45,7 +45,7 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 #### (C)controllers
 
 ### <center>👔  pirate 架构</center>
-![pirate-structure](http://7xj431.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-09%20%E4%B8%8B%E5%8D%883.33.39.png)
++ ![pirate-structure](http://7xj431.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-09%20%E4%B8%8B%E5%8D%883.33.39.png)
 
 ### <center>📄  License</center>
 [MIT], check [License file] for more detail
