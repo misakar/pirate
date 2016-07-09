@@ -83,6 +83,7 @@ class Pirate(object):
                 app = DebuggedApplication(self, evalex=True)
             else:
                 app = self
+        print """my pirate-ship sailing on {%s => %s}\n""" % (host, port)
         WSGIServer((host, port), app).serve_forever()
 
     def wsgi_app(self, environ, start_response):

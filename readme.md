@@ -32,6 +32,9 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 + [测试源码](https://github.com/neo1218/pirate/tree/master/examples/compares/compare_with_flask)
 + [测试结果] ![result](https://cloud.githubusercontent.com/assets/10671733/16592762/c5d870f2-4314-11e6-9b06-2a0e0ea2c2a6.png)
 
+#### command-line tools
++ [pirate-cli](https://github.com/neo1218/pirate/tree/master/src/controllers)
+
 #### (M)orm
 + **sql**: [pirate-orm](https://github.com/neo1218/pirate/tree/master/src/orm)
 + **nosql**: [mongokit](https://github.com/namlook/mongokit)
@@ -39,8 +42,10 @@ pirate的请求处理在wsgi内部创建greenlet local object:
 #### (V)jsonify
 + [marshmallow](https://github.com/marshmallow-code/marshmallow)
 
-#### (C)cli
-+ [pirate-cli](https://github.com/neo1218/pirate/tree/master/src/cli)
+#### (C)controllers
+
+### <center>👔  pirate 架构</center>
+![pirate-structure](http://7xj431.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-09%20%E4%B8%8B%E5%8D%883.33.39.png)
 
 ### <center>📄  License</center>
 [MIT], check [License file] for more detail
